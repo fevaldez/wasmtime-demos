@@ -49,3 +49,5 @@ If everything went according to plan, this should be the result:
 ```html
 <h1>Hello, <code>.NET</code>! Welcome to <strong>WebAssembly</strong> with <a href="https://wasmtime.dev">Wasmtime</a>!</h1>
 ```
+
+[![Run on Repl.it](https://repl.it/badge/github/fevaldez/wasmtime-demos)](https://repl.it/github/fevaldez/wasmtime-demos)
